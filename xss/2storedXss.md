@@ -1,4 +1,4 @@
-# Lab: Reflected XSS into HTML context with nothing encoded
+# Lab: Stored XSS into HTML context with nothing encoded
 
 ## Platform
 PortSwigger Web Security Academy
